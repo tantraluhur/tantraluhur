@@ -11,12 +11,5 @@ Final Year Computer Science student from the University of Indonesia.
 ![](https://github-readme-stats.vercel.app/api?username=tantraluhur&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tantraluhur&theme=dark&hide_border=true)<br/>
 
----
 [![](https://visitcount.itsvg.in/api?id=tantraluhur&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
----
-[![](https://visitcount.itsvg.in/api?id=tantraluhur&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
