@@ -83,8 +83,9 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tantraluhur&theme=dark" alt="GitHub Streak" /></a>
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tantraluhur&theme=dark" alt="GitHub Streak" /></a>
+</div>
 
 ###
 <h3 align="left">🎥 Profile View :</h3>
