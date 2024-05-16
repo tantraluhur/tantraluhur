@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Final year Computer Science student from the University of Indonesia, with a strong passion for software engineering, specializing in web development. Having experience in both frontend and backend development, along with proficiency in languages such as Javascript, Python, Typescript, and Golang with frameworks including React.js, Django, Express.js, Next.js, Fiber, and Springboot. With a sharp focus on details and a strong commitment to providing excellent software solutions, I am ready to contribute to projects and, at the same time, learn more about web development in the software engineering industry. </p>
+<p align="left">Final year Computer Science student from the University of Indonesia, with a strong passion for software engineering, specializing in web development. Having experience in both frontend and backend development, along with proficiency in languages such as Javascript, Python, Typescript, Java, and Golang with frameworks including React.js, Django, Express.js, Next.js, Fiber, and Springboot. With a sharp focus on details and a strong commitment to providing excellent software solutions, I am ready to contribute to projects and, at the same time, learn more about web development in the software engineering industry. </p>
 
 ###
 
